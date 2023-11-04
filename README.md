@@ -2,7 +2,7 @@
 
 # I'm an Android Application Developer
 
-![Android Logo](android_logo.png) *(Add an image or logo if you have one)*
+![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw0T_YlELlThc-COESuCjMGuqCQAkkqmz17TBTZ6mw81OaXru9SwqfdG3DfONQYJd8vIE&usqp=CAU](android_logo.png) *(Add an image or logo if you have one)*
 
 ## Introduction
 
