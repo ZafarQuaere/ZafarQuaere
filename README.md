@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Android Application Developer's Portfolio
+# I'm an Android Application Developer
 
 ![Android Logo](android_logo.png) *(Add an image or logo if you have one)*
 
