@@ -33,8 +33,8 @@ Here's a glimpse of some of the Android projects I've worked on:
 
 If you have any questions or would like to discuss potential collaborations, please feel free to reach out to me:
 
-- Email: [Your Email Address](mailto:zafarimam512@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/zafarimam77)
+- Email: [mailto:zafarimam512@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/zafarimam77]
 
 ## License
 
