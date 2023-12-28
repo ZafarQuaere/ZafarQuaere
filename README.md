@@ -40,7 +40,7 @@ Here's a glimpse of some of the Android projects I've worked on:
 - **Android Technologies**: Android, Kotlin, Java, Rest Api, GSON, Json, Xml, NDK, Volley, Retrofit, Room DB, Live Data, Rx Java, Dagger, Hilt, Junit, Mockito, Leanback Lib, Flow, Coroutines, Data Stores,View Binding, Data Binding, Jetpack Components, Services 
 
 - **Version Control**:  GitHub, Bitbucket, GitLab.
-- **Tools and IDE** Android Studio, IntelliJ, Eclipse, JIRA, Git, Jenkins, BitBucket, SonarQube, Bugzilla, Mixpanel, Zeplin, Slack, Figma.
+- **IDE and Tools** Android Studio, IntelliJ, Eclipse, JIRA, Git, Jenkins, BitBucket, SonarQube, Bugzilla, Mixpanel, Zeplin, Slack, Figma, Confluence, Crashlytics.
 - **Certifications & Awards** OCJP6 (Oracle Certified Java  Programmer), ERS Champion, Cheerboard Nominations two times in two years.
 
 ## Contact
