@@ -28,6 +28,13 @@ Here's a glimpse of some of the Android projects I've worked on:
 
   - **Playstore Link**: https://play.google.com/store/apps/details?id=com.pgi.gmmeet&hl=en
 
+3. **Ulta Beauty**
+- **Description**: It’s an e-Commerce application for Ulta Beauty Cosmetics and Skin care brand. With the help of this application, you can find all their makeup and fragrance product as well as you can book their services. 
+
+ - **Technology Stack**: Android, Kotlin, MVVM, LiveData, DataBinding, NavGraph, Dagger, Retrofit, Graphql, GIT, JIRA, Confluence, Crashlytics, Perfecto cloud, Appium, Cucumber, Jenkins, Junit, Mockito. 
+
+  - **Playstore Link**: https://play.google.com/store/apps/details?id=com.ulta&hl=en_IN
+
 ## Skills
 
 - **Languages**: Java, Kotlin
