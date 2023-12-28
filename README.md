@@ -33,15 +33,15 @@ Here's a glimpse of some of the Android projects I've worked on:
 - **Languages**: Java, Kotlin
 - **Android Technologies**: Android, Kotlin, Java, Rest Api, GSON, Json, Xml, NDK, Volley, Retrofit, Room DB, Live Data, Rx Java, Dagger, Hilt, Junit, Mockito, Leanback Lib, Flow, Coroutines, Data Stores.
 
-- **Version Control**: Experienced in Git, GitHub, Bitbucket, GitLab.
-- **Certifications & Awards** OCJP6 (Oracle Certified Java  Programmer), ERS Champion, Cheerboar Nominations, Two Employee of the year.
+- **Version Control**:  GitHub, Bitbucket, GitLab.
+- **Certifications & Awards** OCJP6 (Oracle Certified Java  Programmer), ERS Champion, Cheerboard Nominations two times in two years.
 
 ## Contact
 
 If you have any questions or would like to discuss potential collaborations, please feel free to reach out to me:
 
-- Email: zafarimam512@gmail.com
-- LinkedIn: https://www.linkedin.com/in/zafarimam77
+- Email:   zafarimam512@gmail.com
+- LinkedIn:   https://www.linkedin.com/in/zafarimam77
 
 
 -------
