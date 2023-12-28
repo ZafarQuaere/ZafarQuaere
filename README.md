@@ -35,10 +35,9 @@ Here's a glimpse of some of the Android projects I've worked on:
 
   - **Playstore Link**: https://play.google.com/store/apps/details?id=com.ulta&hl=en_IN
 
-## Skills
+## Skills Sets
 
-- **Languages**: Java, Kotlin
-- **Android Technologies**: Android, Kotlin, Java, Rest Api, GSON, Json, Xml, NDK, Volley, Retrofit, Room DB, Live Data, Rx Java, Dagger, Hilt, Junit, Mockito, Leanback Lib, Flow, Coroutines, Data Stores.
+- **Android Technologies**: Android, Kotlin, Java, Rest Api, GSON, Json, Xml, NDK, Volley, Retrofit, Room DB, Live Data, Rx Java, Dagger, Hilt, Junit, Mockito, Leanback Lib, Flow, Coroutines, Data Stores,View Binding, Data Binding, Jetpack Components, Services 
 
 - **Version Control**:  GitHub, Bitbucket, GitLab.
 - **Tools and IDE** Android Studio, IntelliJ, Eclipse, JIRA, Git, Jenkins, BitBucket, SonarQube, Bugzilla, Mixpanel, Zeplin, Slack, Figma.
