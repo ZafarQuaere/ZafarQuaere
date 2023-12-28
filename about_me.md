@@ -1,11 +1,12 @@
-### Hi there 👋
+# Hi there 👋
 
-# I'm an Android Application Developer
+## I'm Zafar Imam, an Android Application Developer
 
 
-## Introduction
 
-Welcome to my GitHub repository! I'm a Computer Science Engineer with extensive experience in Android application development. Over the years, I've successfully completed more than 20 projects, specializing in the use of advanced frameworks to deliver high-quality and efficient solutions. This repository serves as my portfolio, showcasing my work and expertise in the Android development field.
+### Introduction
+
+Welcome to my GitHub repository! I'm a Computer Science Engineer with a strong background in Android application development. With over 8 years of experience, I've successfully delivered more than 20 projects, showcasing expertise in advanced frameworks to provide high-quality and efficient solutions.
 
 ## Projects
 
