@@ -30,6 +30,12 @@ Here's a glimpse of some of the Android projects I've worked on:
 
 - **Technology Stack:** Android, Kotlin, MVVM, LiveData, DataBinding, NavGraph, Dagger, Retrofit, Graphql, GIT, JIRA, Confluence, Crashlytics, Perfecto cloud, Appium, Cucumber, Jenkins, Junit, Mockito.
 
+#### 4. [Lalamove](https://play.google.com/store/apps/details?id=hk.easyvan.app.client&hl=en&gl=US)
+
+- **Description:** Lalamove – 24/7 On-Demand Delivery App.  Lalamove is an on-demand delivery platform to empower communities by making delivery fast, simple and affordable.
+
+- **Technology Stack:** Android, Kotlin, MVVM, Flows, DataBinding, Dagger2, Retrofit, Coroutines, GIT, JIRA, Confluence, Crashlytics, Figma,Jenkins, Junit, Mockito, KMM.
+
 ### Skills
 
 - **Android Technologies:** Android, Kotlin, Java, Rest Api, GSON, Json, Xml, NDK, Volley, Retrofit, Room DB, Live Data, Rx Java, Dagger, Hilt, Junit, Mockito, Leanback Lib, Flow, Coroutines, Data Stores.
